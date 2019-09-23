@@ -5,10 +5,10 @@ import json
 from TwitterSentimentAnalysis import sentiment_module as smd
 
 
-api_key = "UTacZD1nJEGOjvN2lneMEsg9p"
-api_secret = "2oipPYZHGKKXfqfqVkz60e8OxrcPzh0KhF8PfunlbhIrQo72gM"
-access_token = "1048941894732935168-LBnJPJhhR6tDhNRaX3vLlOXp0igxaE"
-access_token_secret = "lzA5jkyJi5iqkwWxPy4FSUDwjcKLKGPVazQo2IAj4TTpw"
+api_key = "API_KEY"
+api_secret = "API_SECRET_KEY"
+access_token = "ACCESS_TOKEN"
+access_token_secret = "ACCESS_TOKEN_SECRET"
 
 
 class Listener(StreamListener):
